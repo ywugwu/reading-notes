@@ -24,3 +24,5 @@ This section contains notes on papers related to natural language processing (NL
 ## Visualization/Explainable AI
 
 This section contains notes on papers related to visualization and explainable AI.
+
+- [Visualization Paper 1](VisualizationExplainableAI/Vis_Paper1.md)
