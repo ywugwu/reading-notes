@@ -4,14 +4,10 @@ This repository contains my markdown notes of papers on various topics. The note
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Computer Vision](#computer-vision)
 - [NLP](#nlp)
 - [Visualization/Explainable AI](#visualizationexplainable-ai)
 
-## Introduction
-
-This section contains notes related to general topics and introductions to various fields.
 
 ## Computer Vision
 
