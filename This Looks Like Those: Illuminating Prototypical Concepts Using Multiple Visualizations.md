@@ -28,7 +28,3 @@
 
 ## Conclusion
 - **Summary**: Highlights the improved interpretability and comparable accuracy of the proposed method in image classification.
-
----
-
-This summary provides a concise overview of the paper's key points, focusing on the main ideas, methods, findings, and the broader impact of the research. For a deeper understanding, a thorough read of the full paper is recommended.
