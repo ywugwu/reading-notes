@@ -24,4 +24,6 @@ This repository contains my markdown notes of papers on various topics. The note
 [Look at the Variance! Efficient Black-box
 Explanations with Sobol-based Sensitivity Analysis](Look%20at%20the%20Variance!%20Efficient%20Black-box%20Explanations%20with%20Sobol-based%20Sensitivity%20Analysis.md)
 
+["why should i trust you?" explaining the
+predictions of any classifier](https://arxiv.org/abs/1602.04938)
 
