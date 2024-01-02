@@ -14,6 +14,7 @@ This repository contains my markdown notes of papers on various topics. The note
 
 ## NLP
 
+[HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
 
 ## Visualization/Explainable AI
 
