@@ -18,6 +18,9 @@ This repository contains my markdown notes of papers on various topics. The note
 
 [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/pdf/2004.09984.pdf)
 
+[Is BERT Really Robust? A Strong Baseline for Natural Language Attack
+on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf)
+
 ## Visualization/Explainable AI
 
 [This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](This%20Looks%20Like%20Those%3A%20Illuminating%20Prototypical%20Concepts%20Using%20Multiple%20Visualizations.md)
