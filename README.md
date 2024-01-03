@@ -15,6 +15,7 @@ This repository contains my markdown notes of papers on various topics. The note
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
+
 [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/pdf/2004.09984.pdf)
 
 ## Visualization/Explainable AI
