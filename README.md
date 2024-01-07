@@ -21,6 +21,9 @@ This repository contains my markdown notes of papers on various topics. The note
 [Is BERT Really Robust? A Strong Baseline for Natural Language Attack
 on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf)
 
+[BERTSCORE: EVALUATING TEXT GENERATION WITH
+BERT](https://arxiv.org/pdf/1904.09675.pdf)
+
 ## Visualization/Explainable AI
 
 [This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](This%20Looks%20Like%20Those%3A%20Illuminating%20Prototypical%20Concepts%20Using%20Multiple%20Visualizations.md)
@@ -32,4 +35,6 @@ Explanations with Sobol-based Sensitivity Analysis](Look%20at%20the%20Variance!%
 
 ["why should i trust you?" explaining the
 predictions of any classifier](https://arxiv.org/abs/1602.04938)
+
+[Prompt Valuation Based on Shapley Values](https://arxiv.org/pdf/2312.15395.pdf)
 
