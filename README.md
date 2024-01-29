@@ -12,6 +12,8 @@ This repository contains my markdown notes of papers on various topics. The note
 ## Computer Vision
 
 [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://arxiv.org/pdf/2108.00946.pdf)
+
+[UNDERSTANDING THE MODALITY GAP IN CLIP](https://openreview.net/pdf?id=8W3KGzw7fNI)
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
