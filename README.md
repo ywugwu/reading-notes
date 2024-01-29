@@ -14,6 +14,12 @@ This repository contains my markdown notes of papers on various topics. The note
 [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://arxiv.org/pdf/2108.00946.pdf)
 
 [UNDERSTANDING THE MODALITY GAP IN CLIP](https://openreview.net/pdf?id=8W3KGzw7fNI)
+
+[Improved Techniques for Training Score-Based
+Generative Models](https://arxiv.org/pdf/2006.09011.pdf)
+
+[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
