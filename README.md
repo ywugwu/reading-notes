@@ -20,6 +20,9 @@ Generative Models](https://arxiv.org/pdf/2006.09011.pdf)
 
 [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 
+[Hierarchical Text-Conditional
+Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
+
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
