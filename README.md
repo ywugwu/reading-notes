@@ -23,6 +23,7 @@ Generative Models](https://arxiv.org/pdf/2006.09011.pdf)
 [Hierarchical Text-Conditional
 Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
 
+
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
@@ -50,3 +51,5 @@ predictions of any classifier](https://arxiv.org/abs/1602.04938)
 
 [Prompt Valuation Based on Shapley Values](https://arxiv.org/pdf/2312.15395.pdf)
 
+
+[The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://arxiv.org/pdf/2010.05607.pdf)
