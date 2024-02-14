@@ -36,6 +36,9 @@ on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf)
 [BERTSCORE: EVALUATING TEXT GENERATION WITH
 BERT](https://arxiv.org/pdf/1904.09675.pdf)
 
+[Are Emergent Abilities of Large
+Language Models a Mirage?](https://openreview.net/attachment?id=QzcZb3fWmW&name=pdf)
+
 [Towards Faithfully Interpretable NLP Systems: How Should We Deﬁne and Evaluate Faithfulness?](https://arxiv.org/pdf/2004.03685.pdf)
 ## Visualization/Explainable AI
 
