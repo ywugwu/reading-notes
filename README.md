@@ -23,6 +23,8 @@ Generative Models](https://arxiv.org/pdf/2006.09011.pdf)
 [Hierarchical Text-Conditional
 Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
 
+[Rethinking Bias Mitigation: Fairer Architectures
+Make for Fairer Face Recognition](https://openreview.net/attachment?id=1vzF4zWQ1E&name=pdf)
 
 ## NLP
 
@@ -37,7 +39,6 @@ on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf)
 BERT](https://arxiv.org/pdf/1904.09675.pdf)
 
 [Towards Faithfully Interpretable NLP Systems: How Should We Deﬁne and Evaluate Faithfulness?](https://arxiv.org/pdf/2004.03685.pdf)
-
 
 [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
 
@@ -57,7 +58,6 @@ Explanations with Sobol-based Sensitivity Analysis](Look%20at%20the%20Variance!%
 predictions of any classifier](https://arxiv.org/abs/1602.04938)
 
 [Prompt Valuation Based on Shapley Values](https://arxiv.org/pdf/2312.15395.pdf)
-
 
 [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://arxiv.org/pdf/2010.05607.pdf)
 
