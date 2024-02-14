@@ -7,7 +7,7 @@ This repository contains my markdown notes of papers on various topics. The note
 - [Computer Vision](#computer-vision)
 - [NLP](#nlp)
 - [Visualization/Explainable AI](#visualizationexplainable-ai)
-
+- [ML](#ML)
 
 ## Computer Vision
 
@@ -63,10 +63,8 @@ predictions of any classifier](https://arxiv.org/abs/1602.04938)
 
 
 ## ML
+[Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization](https://openreview.net/attachment?id=Dkmpa6wCIx&name=pdf)
 
-(Sharpness Minimization Algorithms Do Not Only
-Minimize Sharpness To Achieve Better Generalization)[https://openreview.net/attachment?id=Dkmpa6wCIx&name=pdf]
-
-(QLORA: Efficient Finetuning of Quantized LLMs)[https://openreview.net/attachment?id=OUIFPHEgJU&name=pdf]
+[QLORA: Efficient Finetuning of Quantized LLMs](https://openreview.net/attachment?id=OUIFPHEgJU&name=pdf)
 
 
