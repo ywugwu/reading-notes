@@ -61,6 +61,10 @@ predictions of any classifier](https://arxiv.org/abs/1602.04938)
 
 [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://arxiv.org/pdf/2010.05607.pdf)
 
+[Does Localization Inform Editing? Surprising
+Differences in Causality-Based Localization vs.
+Knowledge Editing in Language Models
+](https://openreview.net/pdf?id=EldbUlZtbd)
 
 ## ML
 [Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization](https://openreview.net/attachment?id=Dkmpa6wCIx&name=pdf)
