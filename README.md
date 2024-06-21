@@ -26,8 +26,12 @@ Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
 [Rethinking Bias Mitigation: Fairer Architectures
 Make for Fairer Face Recognition](https://openreview.net/attachment?id=1vzF4zWQ1E&name=pdf)
 
+## CLIP (VLM)
+
 [Parts of Speech–Grounded Subspaces in
 Vision-Language Models](https://arxiv.org/pdf/2305.14053)
+
+[The Hidden Language of Diffusion Models](https://arxiv.org/pdf/2306.00966)
 
 ## NLP
 
