@@ -52,6 +52,10 @@ BERT](https://arxiv.org/pdf/1904.09675.pdf)
 [Why think step by step? Reasoning emerges from the
 locality of experience](https://openreview.net/attachment?id=rcXXNFVlEn&name=pdf)
 
+[SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT
+REASONING IN LANGUAGE MODELS
+](https://arxiv.org/pdf/2203.11171)
+
 ## Visualization/Explainable AI
 
 [This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](This%20Looks%20Like%20Those%3A%20Illuminating%20Prototypical%20Concepts%20Using%20Multiple%20Visualizations.md)
