@@ -26,6 +26,11 @@ Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
 [Rethinking Bias Mitigation: Fairer Architectures
 Make for Fairer Face Recognition](https://openreview.net/attachment?id=1vzF4zWQ1E&name=pdf)
 
+[Skews in the Phenomenon Space Hinder
+Generalization in Text-to-Image Generation](https://arxiv.org/pdf/2403.16394) 
+
+Dalle-3 can't draw "a mouse chasing a cat"
+
 ## CLIP (VLM)
 
 [Parts of Speech–Grounded Subspaces in
