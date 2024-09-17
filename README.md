@@ -29,7 +29,7 @@ Make for Fairer Face Recognition](https://openreview.net/attachment?id=1vzF4zWQ1
 [Skews in the Phenomenon Space Hinder
 Generalization in Text-to-Image Generation](https://arxiv.org/pdf/2403.16394) 
 
-Dalle-3 can't draw "a mouse chasing a cat"
+- Dalle-3 can't draw "a mouse chasing a cat"
 
 ## CLIP (VLM)
 
