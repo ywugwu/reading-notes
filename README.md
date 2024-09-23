@@ -61,6 +61,14 @@ locality of experience](https://openreview.net/attachment?id=rcXXNFVlEn&name=pdf
 REASONING IN LANGUAGE MODELS
 ](https://arxiv.org/pdf/2203.11171)
 
+[Training Language Models to Self-Correct via
+Reinforcement Learning] (https://arxiv.org/pdf/2409.12917)
+
+- Deepmind
+
+[A Theoretical Understanding of Self-Correction through
+In-context Alignmen](https://arxiv.org/pdf/2405.18634)
+
 ## Visualization/Explainable AI
 
 [This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](This%20Looks%20Like%20Those%3A%20Illuminating%20Prototypical%20Concepts%20Using%20Multiple%20Visualizations.md)
