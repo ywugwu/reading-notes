@@ -62,7 +62,7 @@ REASONING IN LANGUAGE MODELS
 ](https://arxiv.org/pdf/2203.11171)
 
 [Training Language Models to Self-Correct via
-Reinforcement Learning] (https://arxiv.org/pdf/2409.12917)
+Reinforcement Learning](https://arxiv.org/pdf/2409.12917)
 
 - Deepmind
 
