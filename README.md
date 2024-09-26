@@ -71,6 +71,11 @@ In-context Alignmen](https://arxiv.org/pdf/2405.18634)
 
 - Self-correction for safety alignment
 
+[Scaling LLM Test-Time Compute Optimally can
+be More Effective than Scaling Model Parameters](https://arxiv.org/pdf/2408.03314)
+
+- Deepmind Scaling Test-time compute
+
 ## Visualization/Explainable AI
 
 [This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](This%20Looks%20Like%20Those%3A%20Illuminating%20Prototypical%20Concepts%20Using%20Multiple%20Visualizations.md)
