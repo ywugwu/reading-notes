@@ -64,6 +64,10 @@ REASONING IN LANGUAGE MODELS
 [Training Language Models to Self-Correct via
 Reinforcement Learning](https://arxiv.org/pdf/2409.12917)
 
+[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043)
+
+- postfix attack
+
 - Deepmind
 
 [A Theoretical Understanding of Self-Correction through
