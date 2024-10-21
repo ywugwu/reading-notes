@@ -107,6 +107,8 @@ Knowledge Editing in Language Models
 [The Linear Representation Hypothesis and
 the Geometry of Large Language Models
 ](https://arxiv.org/pdf/2311.03658)
+
+[INTERPRETING CLIP WITH SPARSE LINEAR CONCEPT EMBEDDINGS](https://arxiv.org/pdf/2402.10376v1)
 ## ML
 [Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization](https://openreview.net/attachment?id=Dkmpa6wCIx&name=pdf)
 
