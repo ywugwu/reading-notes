@@ -114,4 +114,6 @@ the Geometry of Large Language Models
 
 [QLORA: Efficient Finetuning of Quantized LLMs](https://openreview.net/attachment?id=OUIFPHEgJU&name=pdf)
 
+## I really like the plots
 
+[Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/pdf/2305.20081)
