@@ -38,6 +38,8 @@ Vision-Language Models](https://arxiv.org/pdf/2305.14053)
 
 [The Hidden Language of Diffusion Models](https://arxiv.org/pdf/2306.00966)
 
+[LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation](https://arxiv.org/pdf/2411.04997v1)
+
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
