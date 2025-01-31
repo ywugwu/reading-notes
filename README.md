@@ -116,10 +116,16 @@ Knowledge Editing in Language Models
 [Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)](https://arxiv.org/pdf/2402.10376v1)
 
 [DISENTANGLING REGIONAL PRIMITIVES FOR IMAGE GENERATION](https://arxiv.org/pdf/2410.04421)
+
+[Peeling Back the Layers: Interpreting the Storytelling of ViT](https://openreview.net/forum?id=yN2zvWf9a0&referrer=%5Bthe%20profile%20of%20Hongfei%20Lin%5D(%2Fprofile%3Fid%3D~Hongfei_Lin3))
+
+
 ## ML
 [Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization](https://openreview.net/attachment?id=Dkmpa6wCIx&name=pdf)
 
 [QLORA: Efficient Finetuning of Quantized LLMs](https://openreview.net/attachment?id=OUIFPHEgJU&name=pdf)
+
+
 
 ## I really like the plots
 
