@@ -119,6 +119,8 @@ Knowledge Editing in Language Models
 
 [Peeling Back the Layers: Interpreting the Storytelling of ViT](https://dl.acm.org/doi/pdf/10.1145/3664647.3681712?casa_token=wdHLG-sgYdEAAAAA:60Z-Lg7O-Z7C3aXzeTl9XBzBX91Sgk3WbQvVjKFokGIjPND_4qwMwsKoIQTwi-84LZdz_NUrqfrwgg)
 
+- Interpret ViT layer-wise & head-wise
+
 
 ## ML
 [Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization](https://openreview.net/attachment?id=Dkmpa6wCIx&name=pdf)
