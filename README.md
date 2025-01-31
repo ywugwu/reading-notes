@@ -108,11 +108,9 @@ Differences in Causality-Based Localization vs.
 Knowledge Editing in Language Models
 ](https://openreview.net/pdf?id=EldbUlZtbd)
 
-[The Linear Representation Hypothesis and
-the Geometry of Large Language Models
-](https://arxiv.org/pdf/2311.03658)
+[The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/pdf/2311.03658)
 
-[INTERPRETING CLIP WITH SPARSE LINEAR CONCEPT EMBEDDINGS](https://arxiv.org/pdf/2402.10376v1)
+[Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)](https://arxiv.org/pdf/2402.10376v1)
 
 [DISENTANGLING REGIONAL PRIMITIVES FOR IMAGE GENERATION](https://arxiv.org/pdf/2410.04421)
 ## ML
