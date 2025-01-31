@@ -117,7 +117,7 @@ Knowledge Editing in Language Models
 
 [DISENTANGLING REGIONAL PRIMITIVES FOR IMAGE GENERATION](https://arxiv.org/pdf/2410.04421)
 
-[Peeling Back the Layers: Interpreting the Storytelling of ViT](https://openreview.net/forum?id=yN2zvWf9a0&referrer=%5Bthe%20profile%20of%20Hongfei%20Lin%5D(%2Fprofile%3Fid%3D~Hongfei_Lin3))
+[Peeling Back the Layers: Interpreting the Storytelling of ViT](https://dl.acm.org/doi/pdf/10.1145/3664647.3681712?casa_token=wdHLG-sgYdEAAAAA:60Z-Lg7O-Z7C3aXzeTl9XBzBX91Sgk3WbQvVjKFokGIjPND_4qwMwsKoIQTwi-84LZdz_NUrqfrwgg)
 
 
 ## ML
