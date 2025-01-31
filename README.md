@@ -40,6 +40,8 @@ Vision-Language Models](https://arxiv.org/pdf/2305.14053)
 
 [LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation](https://arxiv.org/pdf/2411.04997v1)
 
+[What does a platypus look like? Generating customized prompts for zero-shot image classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf)
+
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
