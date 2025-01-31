@@ -31,6 +31,9 @@ Generalization in Text-to-Image Generation](https://arxiv.org/pdf/2403.16394)
 
 - Dalle-3 can't draw "a mouse chasing a cat"
 
+[Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Tong_Eyes_Wide_Shut_Exploring_the_Visual_Shortcomings_of_Multimodal_LLMs_CVPR_2024_paper.pdf)
+- vision encoders are blind
+
 ## CLIP (VLM)
 
 [Parts of Speech–Grounded Subspaces in
