@@ -45,6 +45,10 @@ Vision-Language Models](https://arxiv.org/pdf/2305.14053)
 
 [What does a platypus look like? Generating customized prompts for zero-shot image classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf)
 
+[Know “No” Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP](https://arxiv.org/pdf/2501.10913)
+
+- Data is everything
+
 ## NLP
 
 [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/pdf/1712.06751.pdf)
