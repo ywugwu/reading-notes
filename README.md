@@ -94,6 +94,8 @@ be More Effective than Scaling Model Parameters](https://arxiv.org/pdf/2408.0331
 [Refusal in Language Models
 Is Mediated by a Single Direction](https://arxiv.org/pdf/2406.11717)
 
+[Round and Round We Go! What makes Rotary Positional Encodings useful?](https://arxiv.org/pdf/2410.06205)
+
 ## Visualization/Explainable AI
 
 [This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](This%20Looks%20Like%20Those%3A%20Illuminating%20Prototypical%20Concepts%20Using%20Multiple%20Visualizations.md)
